@@ -105,7 +105,7 @@ def update_output_container(selected_statistics, input_year):
             figure=px.pie(exp_rec,
                 names='Vehicle_Type',
                 values='Advertising_Expenditure',
-                title='Average number of vehicles sold by vehicle type'))
+                title='Average number of vehicles sold by vehicle size'))
 
 # Plot 4 bar chart for the effect of unemployment rate on vehicle type and sales
         unemp_sales= recession_data.groupby(['Vehicle_Type', 'unemployment_rate'])['Automobile_Sales'].mean().reset_index()
