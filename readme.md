@@ -25,4 +25,4 @@ Our main objectives for this Dash app are:
 
 ## Access the Dashboard
 
-You can access the interactive dashboard by following this [link to the Data Dashboard](your_dashboard_link_here). Feel free to explore and interact with the visualizations to gain insights into automobile sales and their economic impact.
+You can access the interactive dashboard by following this [https://automobile-statistics-ee8d79204a09.herokuapp.com/](your_dashboard_link_here). Feel free to explore and interact with the visualizations to gain insights into automobile sales and their economic impact.
